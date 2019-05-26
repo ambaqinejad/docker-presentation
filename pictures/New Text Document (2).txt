@@ -1,0 +1,4 @@
+https://www.docker.com/resources/what-container
+http://apachebooster.com/kb/what-are-the-advantages-and-disadvantages-of-docker/
+https://searchitoperations.techtarget.com/definition/Docker-Hub
+https://rominirani.com/docker-tutorial-series-writing-a-dockerfile-ce5746617cd
